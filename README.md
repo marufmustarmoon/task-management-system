@@ -33,7 +33,7 @@ The Simple Task Management Tool is designed to empower users to efficiently crea
 2. **Set up the backend:**
    - Navigate to the backend directory:
      ```bash
-     cd backend
+     cd task-management-backend
      ```
    - Install dependencies:
      ```bash
@@ -43,7 +43,7 @@ The Simple Task Management Tool is designed to empower users to efficiently crea
 3. **Set up the frontend:**
    - Navigate to the frontend directory:
      ```bash
-     cd ../frontend
+     cd ../task-management-frontend
      ```
    - Install dependencies:
      ```bash
